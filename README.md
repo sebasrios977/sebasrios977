@@ -1,5 +1,6 @@
-### Hi there 👋, I'm Sebastian Rios.
+### Hi there, I'm Sebastian Rios. 👋
 
+Frontend Developer.
 <!--
 **sebasrios977/sebasrios977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
