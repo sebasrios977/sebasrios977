@@ -4,7 +4,7 @@ Frontend Developer.
 
 About me, I´m a fan of One Piece. ☠️🏴‍☠️👒
 
-<img width="100px" src="https://media.tenor.com/6ZhzHHYyNxoAAAAC/luffy.gif">
+<img width="200px" src="https://media.tenor.com/6ZhzHHYyNxoAAAAC/luffy.gif">
 
 <a href="https://www.linkedin.com/in/sebastianriosrico/">
   <img align="left" alt="Sebastian's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
@@ -21,11 +21,6 @@ About me, I´m a fan of One Piece. ☠️🏴‍☠️👒
 
 <br />
 <br />
-
-
- 
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 **About Me!**
 
