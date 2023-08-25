@@ -39,7 +39,6 @@ About me, I´m a fan of One Piece. ☠️🏴‍☠️👒
 <code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
 <code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
 
-<img src="https://img.icons8.com/?size=512&id=dSnah6CSCxRG&format=png&color=1A6DFF,C822FF">
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
