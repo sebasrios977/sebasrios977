@@ -9,9 +9,6 @@ About me, I´m a fan of One Piece. ☠️🏴‍☠️👒
 <a href="https://www.linkedin.com/in/sebastianriosrico/">
   <img align="left" alt="Sebastian's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/sebastianriosrico/">
-  <img align="left" alt="Sebastian's Instagram" width="24px" src="" />
-</a>
 <a href="https://twitter.com/sebasrios977">
   <img align="left" alt="Sebastian's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
 </a>
