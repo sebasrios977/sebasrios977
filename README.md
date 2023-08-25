@@ -2,9 +2,9 @@
 
 Frontend Developer.
 
-About me, I´m a fan of One Piece.
+About me, I´m a fan of One Piece. ☠️🏴‍☠️👒
 
-<img width="24px" src="https://png.pngtree.com/png-clipart/20190813/ourlarge/pngtree-straw-hat-anime-one-piece-luffy-art-png-png-image_1691104.jpg">
+<img width="24px" src="https://media.tenor.com/6ZhzHHYyNxoAAAAC/luffy.gif">
 
 <a href="https://www.linkedin.com/in/sebastianriosrico/">
   <img align="left" alt="Sebastian's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
