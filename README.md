@@ -4,8 +4,6 @@ Frontend Developer.
 
 <img width="200px" src="https://media.tenor.com/6ZhzHHYyNxoAAAAC/luffy.gif">
 
-About me, I´m a fan of One Piece. ☠️👒
-
 <a href="https://www.linkedin.com/in/sebastianriosrico/">
   <img align="left" alt="Sebastian's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
@@ -20,6 +18,7 @@ About me, I´m a fan of One Piece. ☠️👒
 <br />
 
 **About Me!**
+I´m a fan of One Piece. ☠️👒
 
 - 👨🏽‍💻 I’m currently an Electronic Engineer & Instrumentation and Industrial Control Specialist from Universidad de los Llanos.
 - 🌱 I’m currently developing my skills in Frontend development, working on personal projects such as an anime website. 
