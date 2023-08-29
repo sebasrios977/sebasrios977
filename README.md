@@ -18,6 +18,7 @@ Frontend Developer.
 <br />
 
 **About Me!**
+<br />
 I´m a fan of One Piece. ☠️👒
 
 - 👨🏽‍💻 I’m currently an Electronic Engineer & Instrumentation and Industrial Control Specialist from Universidad de los Llanos.
