@@ -34,11 +34,12 @@ Additionally, I'm a huge fan of **One Piece** ☠️👒, and in my free time, I
 
 ### **Contact Me** 📫
 
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
+Feel free to reach out if you have any questions or want to contact me!
 
 - **Email**: [sebastianriosrico@gmail.com](mailto:sebastianriosrico@gmail.com)
 - **LinkedIn**: [Sebastian Rios](https://www.linkedin.com/in/sebastianriosrico/)
-- **Twitter**: [@sebasrios977](https://twitter.com/sebasrios977)
+- **Twitter**: [@sebasrios977](https://www.x.com/sebasrios977)
+- **Instagram**: [@sebasrios977](https://www.instagram.com/sebastianriosrico/)
 
 ---
 
@@ -48,18 +49,13 @@ I'm a huge fan of **One Piece**! If you are too, let's talk about Luffy's crew a
 
 ---
 
-### **GitHub Stats** 📊
-
-![Sebastian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
 Thank you for visiting my profile! I hope you enjoy exploring my projects as much as I enjoy creating them. 😊
 
 ---
 
 ### **How to Reach Me** 📲
 
-- **LinkedIn**: [Sebastian Rios](https://www.linkedin.com/in/sebastianriosrico/)
-- **Twitter**: [@sebasrios977](https://twitter.com/sebasrios977)
 - **Email**: [sebastianriosrico@gmail.com](mailto:sebastianriosrico@gmail.com)
+- **LinkedIn**: [Sebastian Rios](https://www.linkedin.com/in/sebastianriosrico/)
+- **Twitter**: [@sebasrios977](https://www.x.com/sebasrios977)
+- **Instagram**: [@sebasrios977](https://www.instagram.com/sebastianriosrico/)
