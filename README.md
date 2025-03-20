@@ -32,17 +32,6 @@ Additionally, I'm a huge fan of One Piece ☠️👒. In my free time, I work on
 
 ---
 
-### **Contact Me** 📫
-
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
-
-- **Email**: [sebastianriosrico@gmail.com](mailto:sebastianriosrico@gmail.com)
-- **LinkedIn**: [Sebastian Rios](https://www.linkedin.com/in/sebastianriosrico/)
-- **Twitter**: [@sebasrios977](https://www.x.com/sebasrios977)
-- **Instagram**: [@sebastianriosrico](https://www.instagram.com/sebastianriosrico)
-
----
-
 ### **Fun Fact** 😄
 
 I'm a huge fan of **One Piece**! If you are too, let's talk about Luffy's crew and their incredible adventures! ☠️👒
@@ -53,7 +42,7 @@ Thank you for visiting my profile! I hope you enjoy exploring my projects as muc
 
 ---
 
-### **How to Reach Me** 📲
+### **Contact Me** 📫
 
 - **LinkedIn**: [Sebastian Rios](https://www.linkedin.com/in/sebastianriosrico/)
 - **Twitter**: [@sebasrios977](https://www.x.com/sebasrios977)
