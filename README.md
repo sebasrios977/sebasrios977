@@ -1,16 +1,16 @@
 ### **About Me** 🚀
 
-Hello! I'm **Sebastián Ríos**, a passionate **Frontend Developer** with experience in **Vuejs, React & Angular**. And for **Backend** development, experience in **PhalconPHP and Express**. I hold a degree in **Electronic Engineering** and a specialization in **Instrumentation and Industrial Control** from **Universidad de los Llanos**.
+Hello! I'm **Sebastian Rios**, a passionate **Frontend Developer** with experience in **Vuejs, React & Angular**. And for **Backend** development, experience in **PhalconPHP and Express**. I hold a degree in **Electronic Engineering** and a specialization in **Instrumentation and Industrial Control** from **Universidad de los Llanos**.
 
 Currently, I have professional experience in web development, where I've worked on international projects, particularly in **eCommerce for flowers**. I love creating attractive and functional interfaces that provide an excellent user experience.
 
-Additionally, I'm a huge fan of **One Piece** ☠️👒, and in my free time, I enjoy working on personal projects, such as an anime website.
+Additionally, I'm a huge fan of One Piece ☠️👒. In my free time, I work on personal projects, like building an anime website, and enjoy learning new technologies.
 
 ---
 
 ### **Skills** 💻
 
-- **Frontend Development**: HTML, CSS, JavaScript, TypeScript, React, Next.js, Vuejs, Angular, TailwindCSS, SCSS, Bootstrap.
+- **Frontend Development**: HTML, CSS, JavaScript, TypeScript, React, Next.js, Vuejs, Angular, Dart, Flutter, Tailwind.
 - **Backend Development**: PHP, PhalconPHP, Express, MySQL.
 - **Tools**: Git, GitHub, VSCode, Figma.
 - **Other Skills**: Electronic Engineering, Industrial Control, Instrumentation.
@@ -34,12 +34,12 @@ Additionally, I'm a huge fan of **One Piece** ☠️👒, and in my free time, I
 
 ### **Contact Me** 📫
 
-Feel free to reach out if you have any questions or want to contact me!
+Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
 - **Email**: [sebastianriosrico@gmail.com](mailto:sebastianriosrico@gmail.com)
 - **LinkedIn**: [Sebastian Rios](https://www.linkedin.com/in/sebastianriosrico/)
 - **Twitter**: [@sebasrios977](https://www.x.com/sebasrios977)
-- **Instagram**: [@sebasrios977](https://www.instagram.com/sebastianriosrico/)
+- **Instagram**: [@sebastianriosrico](https://www.instagram.com/sebastianriosrico)
 
 ---
 
@@ -55,7 +55,7 @@ Thank you for visiting my profile! I hope you enjoy exploring my projects as muc
 
 ### **How to Reach Me** 📲
 
-- **Email**: [sebastianriosrico@gmail.com](mailto:sebastianriosrico@gmail.com)
 - **LinkedIn**: [Sebastian Rios](https://www.linkedin.com/in/sebastianriosrico/)
 - **Twitter**: [@sebasrios977](https://www.x.com/sebasrios977)
-- **Instagram**: [@sebasrios977](https://www.instagram.com/sebastianriosrico/)
+- **Instagram**: [@sebastianriosrico](https://www.instagram.com/sebastianriosrico)
+- **Email**: [sebastianriosrico@gmail.com](mailto:sebastianriosrico@gmail.com)
