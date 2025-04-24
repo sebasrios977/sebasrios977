@@ -44,7 +44,7 @@ Thank you for visiting my profile! I hope you enjoy exploring my projects as muc
 
 ### **Contact Me** 📫
 
-- **LinkedIn**: [Sebastian Rios](https://www.linkedin.com/in/sebastianriosrico/)
+- **LinkedIn**: [Sebastian Rios Rico](https://www.linkedin.com/in/sebastianriosrico/)
 - **Twitter**: [@sebasrios977](https://www.x.com/sebasrios977)
 - **Instagram**: [@sebastianriosrico](https://www.instagram.com/sebastianriosrico)
 - **Email**: [sebastianriosrico@gmail.com](mailto:sebastianriosrico@gmail.com)
