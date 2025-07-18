@@ -34,7 +34,7 @@ Additionally, I'm a huge fan of One Piece ☠️👒. In my free time, I work on
 
 ### **Fun Fact** 😄
 
-I'm a huge fan of **One Piece**! If you are too, let's talk about Luffy's crew and their incredible adventures! ☠️👒
+I'm a huge fan of **One Piece**! If you are too, let's talk about it.
 
 ---
 
