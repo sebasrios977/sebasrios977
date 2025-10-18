@@ -28,13 +28,12 @@ Additionally, I'm a huge fan of One Piece ☠️👒. In my free time, I work on
 ### **Education** 🎓
 
 - **Electronic Engineer** - Universidad de los Llanos.
-- **Specialist in Instrumentation and Industrial Control** - Universidad de los Llanos.
 
 ---
 
 ### **Fun Fact** 😄
 
-I'm a huge fan of **One Piece**! If you are too, let's talk about it.
+I'm a huge fan of **One Piece**!
 
 ---
 
