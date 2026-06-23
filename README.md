@@ -1,49 +1,61 @@
-### **About Me** 🚀
+# Hi, I'm Sebastian Rios 👋
 
-Hello! I'm **Sebastian Rios**, a passionate **Frontend Developer** with experience in **Vuejs, React & Angular**. And for **Backend** development, experience in **PhalconPHP and Express**. I hold a degree in **Electronic Engineering** and a specialization in **Instrumentation and Industrial Control** from **Universidad de los Llanos**.
+Frontend Developer with a background in Electronic Engineering — I bring the same systems thinking from hardware to the interfaces I build. I care about clean code, good UX, and understanding how things work under the hood.
 
-Currently, I have professional experience in web development, where I've worked on international projects, particularly in **eCommerce for flowers**. I love creating attractive and functional interfaces that provide an excellent user experience.
-
-Additionally, I'm a huge fan of One Piece ☠️👒. In my free time, I work on personal projects, like building an anime website, and enjoy learning new technologies.
+Currently focused on landing my next frontend role and leveling up in React.
 
 ---
 
-### **Skills** 💻
+## 🛠 Tech Stack
 
-- **Frontend Development**: HTML, CSS, JavaScript, TypeScript, React, Next.js, Vuejs, Angular, Dart, Flutter, Tailwind.
-- **Backend Development**: PHP, PhalconPHP, Express, MySQL.
-- **Tools**: Git, GitHub, VSCode, Figma.
-- **Other Skills**: Electronic Engineering, Industrial Control, Instrumentation.
+**Frontend**
+`React` `Next.js` `Vue.js` `Angular` `TypeScript` `Tailwind CSS` `Flutter`
 
----
+**Backend**
+`Node.js / Express` `PHP / PhalconPHP` `MySQL`
 
-### **Experience** 👨‍💻
-
-- **Frontend Developer** in international eCommerce projects for flowers.
-- Development of attractive and functional user interfaces.
-- Collaboration in multidisciplinary teams for the implementation of technological solutions.
+**Tools**
+`Git` `Figma` `VS Code` `Claude Code`
 
 ---
 
-### **Education** 🎓
+## 💼 Experience
 
-- **Electronic Engineer** - Universidad de los Llanos.
-
----
-
-### **Fun Fact** 😄
-
-I'm a huge fan of **One Piece**!
+**Frontend Developer — International eCommerce (Flowers)**
+Built and maintained customer-facing interfaces for an international eCommerce platform. Worked across a multidisciplinary team shipping features used by customers across multiple countries.
 
 ---
 
-Thank you for visiting my profile! I hope you enjoy exploring my projects as much as I enjoy creating them. 😊
+## 🚧 Projects
+
+> *I build things to learn — then I document them here.*
+
+| Project | Stack | What it does |
+|---|---|---|
+| Color Palette Generator | React + Gemini API | Generates design palettes from a text description using AI |
+| Anime Website | React | Personal project — browsing and tracking anime |
+| Roman Numeral Converter | Vanilla JS | Bidirectional converter, built as a kata |
 
 ---
 
-### **Contact Me** 📫
+## 🎓 Background
 
-- **LinkedIn**: [Sebastian Rios Rico](https://www.linkedin.com/in/sebastianriosrico/)
-- **Twitter**: [@sebasrios977](https://www.x.com/sebasrios977)
-- **Instagram**: [@sebastianriosrico](https://www.instagram.com/sebastianriosrico)
-- **Email**: [sebastianriosrico@gmail.com](mailto:sebastianriosrico@gmail.com)
+Electronic Engineer + Specialization in Instrumentation & Industrial Control — **Universidad de los Llanos**
+
+The engineering degree isn't just a line on a résumé. It shaped how I approach problems: systematically, with attention to how components interact, and with a bias toward understanding the fundamentals before reaching for a library.
+
+---
+
+## ⚡ Outside of code
+
+I'm a dedicated One Piece fan ☠️ — if you know, you know.
+I also think Zoro should've been captain but that's a separate debate.
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian%20Rios-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sebastianriosrico/)
+[![Email](https://img.shields.io/badge/Email-sebastianriosrico%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sebastianriosrico@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@sebasrios977-1DA1F2?style=flat&logo=x&logoColor=white)](https://www.x.com/sebasrios977)
+[![Instagram](https://img.shields.io/badge/Instagram-@sebastianriosrico-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sebastianriosrico)
