@@ -57,5 +57,3 @@ I also think Zoro should've been captain but that's a separate debate.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian%20Rios-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sebastianriosrico/)
 [![Email](https://img.shields.io/badge/Email-sebastianriosrico%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sebastianriosrico@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@sebasrios977-1DA1F2?style=flat&logo=x&logoColor=white)](https://www.x.com/sebasrios977)
-[![Instagram](https://img.shields.io/badge/Instagram-@sebastianriosrico-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sebastianriosrico)
